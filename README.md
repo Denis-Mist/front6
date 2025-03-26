@@ -2,7 +2,6 @@
 
 A simple fullstack application demonstrating JWT-based authentication with a Node.js backend and a vanilla JavaScript frontend.
 
-![Demo](https://via.placeholder.com/800x400.png?text=Authentication+Demo) *Replace with actual screenshot*
 
 ## ✨ Features
 
@@ -110,8 +109,5 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-Made with ❤️ by [Your Name] | Live Demo | Documentation
+Made with ❤️ by Denis
 
-Copy
-
-*Replace placeholder values (yourusername, [Your Name], demo links) with actual project details. Add real screenshots and update the license file as needed.*
